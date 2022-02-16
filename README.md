@@ -2,7 +2,7 @@
 
 This e-commerce was developed as a project for the college.
 
-Click here to view the project https://ludobia.herokuapp.com/
+Click here to view project https://ludobia.herokuapp.com/
 
 ## Requirements
 
